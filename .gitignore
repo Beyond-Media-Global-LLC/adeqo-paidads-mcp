@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+
+# Google Ads
+google-ads.yaml
+
+# temp file
+.api-version
+
+# Env files
+.env
+
+# Test files
+.coverage
+.pytest_cache
